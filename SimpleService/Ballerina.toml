@@ -1,0 +1,12 @@
+[package]
+org = "sumayya"
+name = "SimpleService"
+version = "0.1.0"
+distribution = "2201.1.0"
+
+[[dependency]]
+org = "sumayya"
+name = "Annotations"
+version = "0.1.0"
+repository = "local"
+

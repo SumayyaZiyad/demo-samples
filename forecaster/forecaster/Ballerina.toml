@@ -1,0 +1,17 @@
+[package]
+org = "sumayya"
+name = "forecaster"
+version = "0.1.0"
+distribution = "2201.1.0"
+
+[[dependency]]
+org = "sumayya"
+name = "Annotations"
+version = "0.1.0"
+repository = "local"
+
+[[dependency]]
+org = "sumayya"
+name = "weatherForecaster"
+version = "0.1.0"
+repository = "local"
